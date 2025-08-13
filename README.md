@@ -9,4 +9,4 @@ Linux: https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-l
 
 2/ Copy thư mục sinhvien_mvc vào thư mục htdocs \
 3/ Import file sinhvien_mvc.sql vào cơ sỡ dữ liệu \
-4/ Khởi chạy trang web với link: http://localhost/sinhvien_mvc/index.php \
+4/ Khởi chạy trang web với link: http://localhost/sinhvien_mvc/index.php
